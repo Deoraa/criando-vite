@@ -1,0 +1,28 @@
+{
+    "produtos":[
+        {
+            "nome": "Coca cola 500 ml",
+            "valor": 3.50
+        },
+        {
+            "nome": "Cajuína 1l",
+            "valor": 7.50
+        },
+        {
+            "nome": "Pepsi 500 ml",
+            "valor": 5.60
+        },
+        {
+            "nome": "Pastel de Queijo",
+            "valor": 3.00
+        },
+        {
+            "nome": "Esfirra Mista",
+            "valor": 2.50
+        },
+        {
+            "nome": "Coxinha de Frango",
+            "valor": 2.00
+        }
+    ]
+}
